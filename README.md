@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![thefrenchaxo's Stats](https://github-readme-stats.vercel.app/api?username=thefrenchaxo&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
+![thefrenchaxo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrenchaxo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!--
 **thefrenchaxo/thefrenchaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
