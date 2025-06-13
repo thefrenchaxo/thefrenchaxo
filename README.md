@@ -10,7 +10,7 @@
 ![thefrenchaxo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrenchaxo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 ---
 ### My build :
-<img src="https://img.shields.io/badge/Intel%20Core_i5_12400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/RAM-32GB-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel%20Core_i5_12400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/RAM-32GB-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 ---
 ### Contact Me :
