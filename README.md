@@ -1,3 +1,5 @@
+![banner](https://axo.waves-studio.xyz/assets/banner-github.png)
+---
 # Welcome, Im Axo! <img src="https://cdn3.emoji.gg/emojis/35781-junimo-dance.gif" width="45px" height="45px" alt="junimo_dance">
 > Hi! I'm **Axo**, a beginner French developer passionate about computers and programming.
 ---
