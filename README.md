@@ -17,7 +17,7 @@
 ---
 ### Contact Me :
 - Mail
-	>[axo@waves-studio.xyz](mailto:axo@waves-studio.xyz)
+	>[me@axou.net](mailto:me@axou.net)
 	
 - Discord
 	>[@thefrenchaxo](https://discord.com/users/832587423728140288)
