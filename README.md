@@ -1,4 +1,4 @@
-![banner](https://axo.waves-studio.xyz/assets/banner-github.png)
+![banner](https://axou.net/assets/axoudotnet.png)
 ---
 # Welcome, Im Axou! <img src="https://cdn3.emoji.gg/emojis/35781-junimo-dance.gif" width="45px" height="45px" alt="junimo_dance">
 > Hi! I'm **Axou**, a beginner French developer passionate about computers and programming.
